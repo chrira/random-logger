@@ -1,6 +1,6 @@
 # random-logger
 
-Docker image for a random log generator, based on Alpine Linux.
+Docker image for a random log generator, based on Ubuntu Linux.
 
 [![](https://images.microbadger.com/badges/version/chentex/random-logger.svg)](https://microbadger.com/images/chentex/random-logger "Get your own version badge on microbadger.com")
 [![](https://images.microbadger.com/badges/image/chentex/random-logger.svg)](https://microbadger.com/images/chentex/random-logger "Get your own image badge on microbadger.com")
@@ -16,7 +16,7 @@ This image will execute a container which will generate four random log messages
 I've had the necessity to create a random logger to test log configurations with containers, this helped me out to do it easily.
 
 ## What is inside of this repo?
-In this git repository you will find the docker image definitions for the random Logger for Alpine Linux
+In this git repository you will find the docker image definitions for the random Logger for Ubuntu Linux
 
 * `Dockerfile` -> Contains image definition.
 * `entrypoint.sh` -> Shell code to generate log messages.
