@@ -1,3 +1,3 @@
-FROM alpine:3.6
+FROM ubuntu:latest
 COPY ./entrypoint.sh /
 ENTRYPOINT ["/entrypoint.sh"]
