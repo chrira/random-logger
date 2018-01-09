@@ -1,6 +1,6 @@
 # random-logger
 
-Docker image for a random log generator, based on Ubuntu Linux. Forked from https://github.com/chentex/random-logger which is based on Alipne Linux.
+Docker image for a random log generator, based on Ubuntu Linux. Forked from https://github.com/chentex/random-logger which is based on Alpine Linux.
 
 [![](https://images.microbadger.com/badges/version/chentex/random-logger.svg)](https://microbadger.com/images/chentex/random-logger "Get your own version badge on microbadger.com")
 [![](https://images.microbadger.com/badges/image/chentex/random-logger.svg)](https://microbadger.com/images/chentex/random-logger "Get your own image badge on microbadger.com")
