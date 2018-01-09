@@ -13,7 +13,7 @@ do
       ;;
       "3") echo "WARN ($d) variable not in use."
       ;;
-      "4") echo "DEBUG ($d) first loop completed."
+      "4") echo "DEBUG ($d) loop number x completed."
       ;;
    esac
 done
